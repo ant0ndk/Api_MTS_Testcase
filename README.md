@@ -1,4 +1,4 @@
-# TestTask_MTS_1
+# Api_MTS_Testcase
 Задание:
 
 Сервис содержит 3 таблицы в БД
